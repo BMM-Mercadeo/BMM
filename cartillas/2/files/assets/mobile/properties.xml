@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Properties>
+  <tableOfContent>
+    <tocData>
+      <pageNumber value="1" />
+      <title value="" />
+      <children />
+    </tocData>
+  </tableOfContent>
+  <bookProperties>
+    <pages>
+      <defaultValue>
+        <BGColor value="#FFFFFF" />
+        <width value="709" />
+        <height value="899" />
+        <slideshowDelay value="2000" />
+      </defaultValue>
+      <elements>
+        <page>
+          <links />
+          <id value="1" />
+        </page>
+        <page>
+          <links />
+          <id value="2" />
+        </page>
+        <page>
+          <links />
+          <id value="3" />
+          <height value="901" />
+          <format value="png" />
+        </page>
+        <page>
+          <links />
+          <id value="4" />
+          <format value="png" />
+        </page>
+        <page>
+          <links />
+          <id value="5" />
+          <format value="png" />
+        </page>
+        <page>
+          <links />
+          <id value="6" />
+          <format value="png" />
+        </page>
+        <page>
+          <links />
+          <id value="7" />
+          <format value="png" />
+        </page>
+        <page>
+          <links />
+          <id value="8" />
+          <height value="900" />
+        </page>
+        <page>
+          <links />
+          <id value="9" />
+          <format value="png" />
+        </page>
+        <page>
+          <links />
+          <id value="10" />
+          <format value="png" />
+        </page>
+        <page>
+          <links />
+          <id value="11" />
+          <format value="png" />
+        </page>
+        <page>
+          <links />
+          <id value="12" />
+          <format value="png" />
+        </page>
+        <page>
+          <links />
+          <id value="13" />
+          <format value="png" />
+        </page>
+        <page>
+          <links />
+          <id value="14" />
+        </page>
+        <page>
+          <links />
+          <id value="15" />
+          <height value="900" />
+        </page>
+        <page>
+          <links />
+          <id value="16" />
+          <format value="png" />
+        </page>
+        <page>
+          <links />
+          <id value="17" />
+          <format value="png" />
+        </page>
+        <page>
+          <links />
+          <id value="18" />
+          <height value="901" />
+          <format value="png" />
+        </page>
+        <page>
+          <links />
+          <id value="19" />
+          <format value="png" />
+        </page>
+        <page>
+          <links />
+          <id value="20" />
+          <format value="png" />
+        </page>
+        <page>
+          <links />
+          <id value="21" />
+          <format value="png" />
+        </page>
+        <page>
+          <links />
+          <id value="22" />
+          <height value="901" />
+          <format value="png" />
+        </page>
+        <page>
+          <links />
+          <id value="23" />
+          <height value="901" />
+          <format value="png" />
+        </page>
+        <page>
+          <links />
+          <id value="24" />
+          <height value="901" />
+          <format value="png" />
+        </page>
+        <page>
+          <links />
+          <id value="25" />
+          <format value="png" />
+        </page>
+        <page>
+          <links />
+          <id value="26" />
+          <height value="900" />
+        </page>
+        <page>
+          <links />
+          <id value="27" />
+        </page>
+        <page>
+          <links />
+          <id value="28" />
+        </page>
+      </elements>
+    </pages>
+    <searchIndex ext="search/searchtext.xml" />
+    <bookId value="5c6e04d4-73fa-4351-b35e-c0441b79f4ed" />
+    <bookWidth value="709" />
+    <bookHeight value="901" />
+    <bookName value="Publication" />
+    <bookBG src="image/sky-blue-inner.jpg" scale="scale" width="1100" height="800" color="#2E598F" />
+    <searchVisible value="false" />
+    <navigationVisible value="true" />
+    <singlePageMode value="false" />
+    <rightToLeftMode value="false" />
+    <hardCover value="false" border="false" color="#F5AB6E" width="15" height="15" />
+    <skin style="DarkSkyBlue" />
+    <tocVisible value="false" />
+    <slideshowVisible value="true" />
+    <bookmarksVisible value="true" />
+    <bookLang value="es" />
+    <sessionRestore value="false" />
+  </bookProperties>
+</Properties>

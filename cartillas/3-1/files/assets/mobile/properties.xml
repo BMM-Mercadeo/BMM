@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Properties>
+  <tableOfContent>
+    <tocData>
+      <pageNumber value="1" />
+      <title value="" />
+      <children />
+    </tocData>
+  </tableOfContent>
+  <bookProperties>
+    <pages>
+      <defaultValue>
+        <BGColor value="#FFFFFF" />
+        <width value="709" />
+        <height value="900" />
+        <slideshowDelay value="2000" />
+      </defaultValue>
+      <elements>
+        <page>
+          <links />
+          <id value="1" />
+          <width value="708" />
+          <height value="901" />
+        </page>
+        <page>
+          <links />
+          <id value="2" />
+        </page>
+        <page>
+          <links />
+          <id value="3" />
+          <height value="901" />
+        </page>
+        <page>
+          <links />
+          <id value="4" />
+        </page>
+        <page>
+          <links />
+          <id value="5" />
+        </page>
+        <page>
+          <links />
+          <id value="6" />
+        </page>
+        <page>
+          <links />
+          <id value="7" />
+        </page>
+        <page>
+          <links />
+          <id value="8" />
+        </page>
+        <page>
+          <links />
+          <id value="9" />
+          <width value="708" />
+          <height value="901" />
+        </page>
+        <page>
+          <links />
+          <id value="10" />
+        </page>
+        <page>
+          <links />
+          <id value="11" />
+        </page>
+        <page>
+          <links />
+          <id value="12" />
+        </page>
+        <page>
+          <links />
+          <id value="13" />
+        </page>
+        <page>
+          <links />
+          <id value="14" />
+        </page>
+        <page>
+          <links />
+          <id value="15" />
+        </page>
+        <page>
+          <links />
+          <id value="16" />
+        </page>
+        <page>
+          <links />
+          <id value="17" />
+        </page>
+        <page>
+          <links />
+          <id value="18" />
+        </page>
+        <page>
+          <links />
+          <id value="19" />
+        </page>
+        <page>
+          <links />
+          <id value="20" />
+        </page>
+        <page>
+          <links />
+          <id value="21" />
+        </page>
+        <page>
+          <links />
+          <id value="22" />
+        </page>
+        <page>
+          <links />
+          <id value="23" />
+        </page>
+        <page>
+          <links />
+          <id value="24" />
+          <height value="899" />
+        </page>
+      </elements>
+    </pages>
+    <searchIndex ext="search/searchtext.xml" />
+    <bookId value="b22e6534-ce3e-4c0b-8928-bbd21b3fd1ec" />
+    <bookWidth value="709" />
+    <bookHeight value="900" />
+    <bookName value="Educación Financiera para Todos" />
+    <bookBG src="image/sky-blue-inner.jpg" scale="scale" width="1100" height="800" color="#2E598F" />
+    <searchVisible value="false" />
+    <navigationVisible value="true" />
+    <singlePageMode value="false" />
+    <rightToLeftMode value="false" />
+    <hardCover value="false" border="false" color="#F5AB6E" width="15" height="15" />
+    <skin style="DarkSkyBlue" />
+    <tocVisible value="false" />
+    <slideshowVisible value="true" />
+    <bookmarksVisible value="true" />
+    <bookLang value="es" />
+    <sessionRestore value="false" />
+  </bookProperties>
+</Properties>
